@@ -34,6 +34,8 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Nov 15, 2023</b><br/>Reading Session: Zarcone/Ventura<br/>
+    <a href="https://aclanthology.org/2023.acl-long.31/">World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models</a> (Ma et al., ACL 2023)<br/>
+    <a href="https://arxiv.org/pdf/2310.04560.pdf">Talk like a Graph: Encoding Graphs for Large Language Models</a> (Fatemi et al., 2023)
 
     <br/><br/>
 
