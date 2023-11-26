@@ -44,7 +44,7 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Nov 29, 2023</b><br/>Research Updates: Christian Chiarcos<br/>
-    <i>Introducing the <a href="doc/chiarcos-2023-11-29">Augsburg Corpus of Reference and Information Structure (AURIS)</a>
+    <i>Introducing the <a href="doc/chiarcos-2023-11-29">Augsburg Corpus of Reference and Information Structure (AURIS)</a></i>
 
     <br/><br/>
 
