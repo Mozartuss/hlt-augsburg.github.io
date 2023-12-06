@@ -49,7 +49,7 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 6, 2023</b><br/>
-    Research Updates: Jakob Prange, Tobias Hallmen
+    Jakob Prange: <a href="https://repository.library.georgetown.edu/handle/10822/1064591">Neuro-symbolic Models for Constructing, Comparing, and Combining Syntactic and Semantic Representations</a>
     <br/><br/>
 
     <b>Dec 13, 2023</b><br/>Reading Session: Christian Chiarcos  / Veronika Gacia<br/>
@@ -77,7 +77,8 @@ permalink: /nlp-seminar
     <br/>External Guest Speaker: Diego Frassinelli (LMU München)
     <br/><br/>
 
-    <b>Feb 7, 2023</b><br/>Discussion + Breakfast<br/>
+    <b>Feb 7, 2023</b><br/>Research Update: Tobias Hallmen<br/>
+    Discussion + Breakfast<br/>
 
     <br/><br/>
 
