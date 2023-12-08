@@ -53,8 +53,8 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 13, 2023</b><br/>
-    Christian Chiarcos: <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i><br/>
-    Veronika Gacia: <i>The use of the pluperfect tense in narrative and non-narrative texts (corpus linguistic research)</i>
+    Veronika Gacia: <i>The use of the pluperfect tense in narrative and non-narrative texts (corpus linguistic research)</i><br/>
+    Christian Chiarcos: <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i>
     <br/><br/>
 
     <b>Dec 20, 2023</b><br/>
