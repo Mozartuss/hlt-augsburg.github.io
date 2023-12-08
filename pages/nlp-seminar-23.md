@@ -52,12 +52,9 @@ permalink: /nlp-seminar
     Jakob Prange: <a href="https://repository.library.georgetown.edu/handle/10822/1064591">Neuro-symbolic Models for Constructing, Comparing, and Combining Syntactic and Semantic Representations</a>
     <br/><br/>
 
-    <b>Dec 13, 2023</b><br/>Reading Session: Christian Chiarcos  / Veronika Gacia<br/>
-    <!--i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i><br/>
-<a href="https://aclanthology.org/2020.lrec-1.401/">The ACoLi Dictionary Graph</a> (Chiarcos et al., LREC 2020)<<br/>
-<a href="https://www.w3.org/2016/05/ontolex/">Lexicon Model for Ontologies (OntoLex)</a> (Cimiano et al., eds., 2016, W3C Community Group Report, CG Ontology-Lexica)<br/>
-<a href="https://github.com/acoli-repo/acoli-dicts">GitHub repo</a-->
-
+    <b>Dec 13, 2023</b><br/>
+    Christian Chiarcos: <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i><br/>
+    Veronika Gacia: <i>The use of the pluperfect tense in narrative and non-narrative texts (corpus linguistic research)</i>
     <br/><br/>
 
     <b>Dec 20, 2023</b><br/>
