@@ -62,7 +62,8 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Jan 10, 2023</b>
-    <br/>Master thesis presentation: Steffen Kleinle<br/><br/>
+    <br/>Master thesis presentation: Steffen Kleinle<br/>
+    Research Update: Tobias Hallmen<br/><br/>
 
      <b>Jan 17, 2023</b>
     <br/>PhD Update Reports: Timo + Wei<br/><br/>
