@@ -40,7 +40,7 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Nov 22, 2023</b><br/>
-    Guest talk by Sophie Henning (Bosch/LMU): Uncertainty and Confidence Modeling for Deep Learning in NLP
+    Guest talk by Sophie Henning (Bosch/LMU): <i>Uncertainty and Confidence Modeling for Deep Learning in NLP</i>
     <br/><br/>
 
     <b>Nov 29, 2023</b><br/>Research Updates: Christian Chiarcos<br/>
@@ -58,7 +58,9 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 20, 2023</b><br/>
-    PhD Updates: Viviana, Lukas
+    PhD Updates<br/>
+    Lukas Christ: <i>Affective Computing, Emotion Recognition, </i><br/>
+    Viviana Ventura:<i>Human-Computer Interaction and Visual Question Answering</i>
     <br/><br/>
 
     <b>Jan 10, 2023</b>
@@ -72,10 +74,10 @@ permalink: /nlp-seminar
     <br/>PhD Update Reports: Zahra + Valentin<br/><br/>
 
      <b>Jan 31, 2023</b><br/>
-    <br/>External Guest Speaker: Diego Frassinelli (LMU München)
+    External Guest Speaker: Diego Frassinelli (LMU München)
     <br/><br/>
 
-    <b>Feb 7, 2023</b><br/>Research Update: Tobias Hallmen<br/>
+    <b>Feb 7, 2023</b><br/>
     Discussion + Breakfast<br/>
 
     <br/><br/>
