@@ -21,11 +21,11 @@
 title: Human Language Technology @ Augsburg
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  You found the website of three research groups located in Augsburg working on computational linguistics!
+  You found the website of three research groups located in Augsburg working on human language technology!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  augsburg-coli
+github_username:  hlt-augsburg
 
 # Build settings
 theme: minima
