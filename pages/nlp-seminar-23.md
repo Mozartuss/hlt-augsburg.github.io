@@ -10,8 +10,6 @@ permalink: /nlp-seminar
 
     <b>Wednesdays, 10am -- Start Date: October 18, 2023</b><br/><br/>
 
-    <i>Schedule under construction</i><br/><br/>
-
     <b>October 18, 2023</b><br/>
     <i>No meeting - ILKA talk by Flavia Sciolette at 5.30pm</i>
     <br/><br/>
