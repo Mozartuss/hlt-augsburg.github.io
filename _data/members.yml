@@ -26,7 +26,7 @@
     website: 'Personal Website'
     websiteurl: 'https://annefried.github.io'
     affiliation: 'University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Jakob Prange'
@@ -36,7 +36,7 @@
     website: 'Personal Website'
     websiteurl: 'https://jakpra.github.io/'
     affiliation: 'University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
 -
@@ -47,7 +47,7 @@
     website: ''
     websiteurl: ''
     affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Viviana Ventura'
@@ -67,7 +67,7 @@
     website: ''
     websiteurl: ''
     affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Valentin Knappich'
@@ -77,7 +77,7 @@
     website: ''
     websiteurl: ''
     affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Zahra Kolagar'
@@ -98,3 +98,13 @@
     websiteurl: ''
     affiliation: 'Technische Hochschule Augsburg'
     instituteurl: 'https://www.tha.de/'
+
+-
+    name: 'Steffen Kleinle'
+    email: 'tba'
+    position: 'Master Student'
+    pic: "steffen"
+    website: ''
+    websiteurl: ''
+    affiliation: 'University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
