@@ -72,7 +72,7 @@ permalink: /nlp-seminar
     <br/>PhD Update Reports: Zahra + Valentin<br/><br/>
 
      <b>Jan 31, 2023</b><br/>
-    External Guest Speaker: Diego Frassinelli (LMU München)
+    External Guest Speaker: Diego Frassinelli (LMU München) <i>The concreteness of words and concepts: Integrating human ratings, textual co-occurrences, and visual representations</i>
     <br/><br/>
 
     <b>Feb 7, 2023</b><br/>

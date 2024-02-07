@@ -10,13 +10,13 @@
 
 -
     name: 'Alessandra Zarcone'
-    email: 'Alessandra (dot) Zarcone (at) hs-augsburg (dot) de'
+    email: 'alessandra (dot) zarcone (at) tha (dot) de'
     position: 'Professor'
     pic: "alessandra"
     website: 'Personal Website'
     websiteurl: 'https://azarcone.github.io/'
-    affiliation: 'Hochschule Augsburg'
-    instituteurl: 'https://www.hs-augsburg.de/'
+    affiliation: 'Technische Hochschule Augsburg'
+    instituteurl: 'https://www.tha.de/'
 
 -
     name: 'Annemarie Friedrich'
@@ -56,7 +56,7 @@
     pic: "viviana"
     website: ''
     websiteurl: ''
-    affiliation: 'Hochschule Augsburg'
+    affiliation: 'Technische Hochschule Augsburg'
     instituteurl: 'https://www.tha.de/'
 
 -
@@ -79,6 +79,25 @@
     affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Zahra Kolagar'
+    email: 'tba'
+    position: 'Phd Student'
+    pic: ""
+    website: ''
+    websiteurl: ''
+    affiliation: 'Frauhnhofer IIS, Erlangen'
+    instituteurl: 'https://www.iis.fraunhofer.de/'
+
+-
+    name: 'Lukas Kleybolte'
+    email: 'tba'
+    position: 'Phd Student'
+    pic: ""
+    website: ''
+    websiteurl: ''
+    affiliation: 'Technische Hochschule Augsburg'
+    instituteurl: 'https://www.tha.de/'
 
 -
     name: 'Steffen Kleinle'
