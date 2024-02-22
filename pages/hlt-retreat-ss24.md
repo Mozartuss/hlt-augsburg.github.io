@@ -103,7 +103,7 @@ permalink: /hlt-retreat-ss24
     <td class="tg-0lax">tbd</td>
     </tr>
         <tr>
-    <td class="tg-0lax">11:03</td>
+    <td class="tg-0lax">11:30</td>
     <td class="tg-0lax">Research Update: Wei</td>
     <td class="tg-0lax">Agent-based Table Question Answering</td>
     </tr>
