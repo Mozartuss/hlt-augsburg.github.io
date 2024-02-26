@@ -26,16 +26,6 @@ Semester meetings:
 
 dates that do not work: June 19, LREC, May 1<br/><br/>
 
-Mini Workshop
-<ul>
-<li>Veronika, Jakob, Anne</li>
-<li>Tobias, Lukas C.</li>
-<li>Timo, Valentin</li>
-<li>Wei, Viviana</li>
-<li>Christian C.</li>
-<li>Social event</li>
-</ul>
-
 
         </div>
     </div>
