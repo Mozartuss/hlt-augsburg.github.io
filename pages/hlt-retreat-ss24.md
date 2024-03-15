@@ -51,21 +51,21 @@ permalink: /hlt-retreat-ss24
     <td class="tg-0lax">Annotation of Discourse Modes and Narrativity (Research Update)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">15:30</td>
+    <td class="tg-0lax">15:15</td>
     <td class="tg-0lax" colspan="2">Coffee Break</td>
   </tr>
   <tr>
-    <td class="tg-0lax">16:00</td>
+    <td class="tg-0lax">15:45</td>
     <td class="tg-0lax">Timo</td>
     <td class="tg-0lax">Research Update: Logical Reasoning with Uncertainty</td>
   </tr>
     <tr>
-    <td class="tg-0lax">16:30</td>
+    <td class="tg-0lax">16:15</td>
     <td class="tg-0lax">Tobias</td>
     <td class="tg-0lax">Research Update: Feedback for Teacher-Parent Conversations</td>
     </tr>
   <tr>
-    <td class="tg-0lax">17:00</td>
+    <td class="tg-0lax">16:45</td>
     <td class="tg-0lax" colspan="2"><i>Commute to city centre and visit of Fuggerei</i></td>
   </tr>
   <tr>
@@ -83,28 +83,23 @@ permalink: /hlt-retreat-ss24
     <td class="tg-0lax">Title</td>
   </tr>
 <tr>
-    <td class="tg-0lax">09:30</td>
-    <td class="tg-0lax">Lukas C.</td>
-    <td class="tg-0lax">Research Update: tbd</td>
+    <td class="tg-0lax">10:00</td>
+    <td class="tg-0lax">Christian C.</td>
+    <td class="tg-0lax">Research Updates</td>
     </tr>
    <tr>
-    <td class="tg-0lax">10:00</td>
+    <td class="tg-0lax">10:30</td>
     <td class="tg-0lax">Valentin</td>
     <td class="tg-0lax">Research Update: Papers to Patents: Mapping and Generation</td>
     </tr>
     <tr>
-    <td class="tg-0lax">10:30</td>
-    <td class="tg-0lax">Coffee Break</td>
-    <td class="tg-0lax"></td>
-    </tr>
-    <tr>
     <td class="tg-0lax">11:00</td>
-    <td class="tg-0lax">Research Update: Viviana</td>
+    <td class="tg-0lax">Peer Feedback Sessions</td>
     <td class="tg-0lax">tbd</td>
     </tr>
         <tr>
     <td class="tg-0lax">11:30</td>
-    <td class="tg-0lax">Research Update: Wei</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax">Agent-based Table Question Answering</td>
     </tr>
       <tr>
@@ -113,15 +108,16 @@ permalink: /hlt-retreat-ss24
   </tr>
     <tr>
     <td class="tg-0lax">14:00</td>
-    <td class="tg-0lax">Research Update: Christian</td>
+    <td class="tg-0lax">Research Update: Viviana</td>
     <td class="tg-0lax">tbd</td>
     </tr>
     <tr>
-    <td class="tg-0lax">14:45</td>
-    <td class="tg-0lax" colspan="2">Discussions, Website, Oberseminar Planning</td>
+    <td class="tg-0lax">14:30</td>
+    <td class="tg-0lax" colspan="2">Research Update: Wei</td>
+    <td class="tg-0lax">tbd</td>
   </tr>
     <tr>
-    <td class="tg-0lax">15:30</td>
+    <td class="tg-0lax">15:00</td>
     <td class="tg-0lax" colspan="2">Coffee and Informal End</td>
   </tr>
   </table>
