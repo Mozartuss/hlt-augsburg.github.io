@@ -94,8 +94,7 @@ permalink: /hlt-retreat-ss24
     </tr>
     <tr>
     <td class="tg-0lax">11:00</td>
-    <td class="tg-0lax">Peer Feedback Sessions</td>
-    <td class="tg-0lax">tbd</td>
+    <td class="tg-0lax" colspan="2">Peer Feedback Sessions</td>
     </tr>
       <tr>
     <td class="tg-0lax">12:00</td>
@@ -108,7 +107,7 @@ permalink: /hlt-retreat-ss24
     </tr>
     <tr>
     <td class="tg-0lax">14:30</td>
-    <td class="tg-0lax" colspan="2">Research Update: Wei</td>
+    <td class="tg-0lax">Research Update: Wei</td>
     <td class="tg-0lax">Agent-based Table Question Answering</td>
   </tr>
     <tr>
