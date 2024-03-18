@@ -97,11 +97,6 @@ permalink: /hlt-retreat-ss24
     <td class="tg-0lax">Peer Feedback Sessions</td>
     <td class="tg-0lax">tbd</td>
     </tr>
-        <tr>
-    <td class="tg-0lax">11:30</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Agent-based Table Question Answering</td>
-    </tr>
       <tr>
     <td class="tg-0lax">12:00</td>
     <td class="tg-0lax" colspan="2">Lunch at Unikum</td>
@@ -114,7 +109,7 @@ permalink: /hlt-retreat-ss24
     <tr>
     <td class="tg-0lax">14:30</td>
     <td class="tg-0lax" colspan="2">Research Update: Wei</td>
-    <td class="tg-0lax">tbd</td>
+    <td class="tg-0lax">Agent-based Table Question Answering</td>
   </tr>
     <tr>
     <td class="tg-0lax">15:00</td>
