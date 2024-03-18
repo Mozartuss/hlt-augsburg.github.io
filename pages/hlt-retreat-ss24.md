@@ -76,12 +76,6 @@ permalink: /hlt-retreat-ss24
 <tr>
 <td class="tg-0lax" colspan="3"><b>Tuesday, April 9, 2024</b></td>
 </tr>
-
-  <tr>
-    <td class="tg-0lax">Time</td>
-    <td class="tg-0lax">Speaker</td>
-    <td class="tg-0lax">Title</td>
-  </tr>
 <tr>
     <td class="tg-0lax">10:00</td>
     <td class="tg-0lax">Christian C.</td>
