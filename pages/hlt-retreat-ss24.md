@@ -92,7 +92,7 @@ permalink: /hlt-retreat-ss24
     </tr>
       <tr>
     <td class="tg-0lax">12:00</td>
-    <td class="tg-0lax" colspan="2">Lunch at Unikum</td>
+    <td class="tg-0lax" colspan="2">Lunch at Restaurant Exotiko (Haunstetterstrasse 30)</td>
   </tr>
     <tr>
     <td class="tg-0lax">14:00</td>
