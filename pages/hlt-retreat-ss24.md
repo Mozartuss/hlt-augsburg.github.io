@@ -74,7 +74,7 @@ permalink: /hlt-retreat-ss24
   </tr>
 <tr/>
 <tr>
-<td class="tg-0lax" colspan="3"><b>Tuesday, April 9, 2024, TH Augsburg, <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">Campus am Roten Tor</a>, Geb J., Room J1.19<</b></td>
+<td class="tg-0lax" colspan="3"><b>Tuesday, April 9, 2024, TH Augsburg, <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">Campus am Roten Tor</a>, Geb J., Room J1.19</b></td>
 </tr>
 <tr>
     <td class="tg-0lax">10:00</td>
