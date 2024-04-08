@@ -101,8 +101,8 @@ permalink: /hlt-retreat-ss24
     </tr>
     <tr>
     <td class="tg-0lax">14:30</td>
-    <td class="tg-0lax">Research Update: Wei</td>
-    <td class="tg-0lax">Agent-based Table Question Answering</td>
+    <td class="tg-0lax">Research Update: Christian F.</td>
+    <td class="tg-0lax">Overview of typical business processes in manufacturing companies</td>
   </tr>
     <tr>
     <td class="tg-0lax">15:00</td>
