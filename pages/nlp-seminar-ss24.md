@@ -12,16 +12,19 @@ permalink: /nlp-seminar-ss24
 
     <i>Schedule under construction</i><br/><br/>
 
-    <b>Contact: Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b>
+    <b>Contact: Christian Chiarcos (firstname dot lastname at uni minus a dot de)</b>
 
 Semester meetings:
     <ul>
-    <li>Steffen Kleinle (colloquium), end of semester, July</li>
-    <li>Zahra Kolagar (later in semester), July</li>
-    <li>Bachelor students Sprachverstehen mit Anwendung DH, Daniel, Ebubekir</li>
-    <li>Mahmud, Christian F.</li>
-    <li>Lukas K., Wei, Sujin</li>
-    <li>Readings/reports from recent conferences</li>
+        May:
+        <li>Mahmud, May 15</li>
+        June:
+        <li>June 5, Wei + Christian F.</li>
+        <li>June 12, Sujin, Jenny </li>
+        <li>June 26, Lukas K., Zahra Kolagar (later in semester), June</li>
+        July:
+        <li>July 3, Bachelor students Sprachverstehen mit Anwendung DH, Daniel, Ebubekir</li>
+        <li>July 10, Steffen Kleinle (colloquium), end of semester, July</li>
     </ul>
 
 dates that do not work: June 19, LREC, May 1<br/><br/>
