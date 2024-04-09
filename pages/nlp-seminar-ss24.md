@@ -9,10 +9,9 @@ permalink: /nlp-seminar-ss24
     <h3>Summer Semester 2024</h3>
 
     Wednesdays, 10am<br/>
+    N1056 and Zoom<br/><br/>
 
-    <i>Schedule under construction</i><br/><br/>
-
-    <b>Contact (S24): Christian Chiarcos (firstname dot lastname at uni minus a dot de)</b>
+    <b>Contact (S24): Christian Chiarcos (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
 
     <b>May 15, 2024</b><br/>
@@ -39,8 +38,8 @@ permalink: /nlp-seminar-ss24
     Master thesis colloquium Steffen Kleinle: Question Answering in a German Migration Context
     <br/><br/>
 
-    <b>July 10, 2024</b><br/>
-    Evening: End-of-semester dinner
+    <b>July 10, 2024 (evening)</b><br/>
+    End-of-semester dinner
 
 
         </div>
