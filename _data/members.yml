@@ -5,7 +5,7 @@
     pic: "christian"
     website: 'Personal Website'
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/team/prof-dr-chiarcos/'
-    affiliation: 'University of Augsburg'
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
 
 -
@@ -25,7 +25,7 @@
     pic: "anne"
     website: 'Personal Website'
     websiteurl: 'https://annefried.github.io'
-    affiliation: 'University of Augsburg'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -35,24 +35,34 @@
     pic: "jakob"
     website: 'Personal Website'
     websiteurl: 'https://jakpra.github.io/'
-    affiliation: 'University of Augsburg'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+-
+    name: 'Veronika Gacia'
+    email: ''
+    position: 'PostDoc'
+    pic: "veronika"
+    website: ''
+    websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
+    affiliation: 'German Linguistics <br/> University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
 
 
 -
     name: 'Timo Schrader'
     email: 'firstname dot lastname at de dot bosch dot com'
-    position: 'Phd Student'
+    position: 'PhD Student'
     pic: "timo"
     website: ''
     websiteurl: ''
-    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Viviana Ventura'
     email: 'tba'
-    position: 'Phd Student'
+    position: 'PhD Student'
     pic: "viviana"
     website: ''
     websiteurl: ''
@@ -66,23 +76,23 @@
     pic: "wei_zhou"
     website: ''
     websiteurl: ''
-    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Valentin Knappich'
     email: 'tba'
-    position: 'Phd Student'
+    position: 'PhD Student'
     pic: "valentin_knappich"
     website: ''
     websiteurl: ''
-    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Zahra Kolagar'
     email: 'tba'
-    position: 'Phd Student'
+    position: 'PhD Student'
     pic: ""
     website: ''
     websiteurl: ''
@@ -92,7 +102,7 @@
 -
     name: 'Lukas Kleybolte'
     email: 'tba'
-    position: 'Phd Student'
+    position: 'PhD Student'
     pic: ""
     website: ''
     websiteurl: ''
@@ -106,16 +116,18 @@
     pic: "steffen"
     website: ''
     websiteurl: ''
-    affiliation: 'University of Augsburg'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
 -
     name: 'Sujin Park'
-    email: 'tba'
+    email: ''
     position: 'Master Student / Intern'
     pic: "sujin"
     website: ''
     websiteurl: ''
-    affiliation: 'University of Augsburg'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+
