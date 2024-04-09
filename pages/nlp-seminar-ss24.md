@@ -18,9 +18,9 @@ Semester meetings:
     <ul>
     <li>Steffen Kleinle (colloquium), end of semester, July</li>
     <li>Zahra Kolagar (later in semester), July</li>
-    <li>Bachelor students Sprachverstehen mit Anwendung DH</li>
+    <li>Bachelor students Sprachverstehen mit Anwendung DH, Daniel, Ebubekir</li>
     <li>Mahmud, Christian F.</li>
-    <li>Lukas K.</li>
+    <li>Lukas K., Wei, Sujin</li>
     <li>Readings/reports from recent conferences</li>
     </ul>
 
