@@ -12,22 +12,35 @@ permalink: /nlp-seminar-ss24
 
     <i>Schedule under construction</i><br/><br/>
 
-    <b>Contact: Christian Chiarcos (firstname dot lastname at uni minus a dot de)</b>
+    <b>Contact (S24): Christian Chiarcos (firstname dot lastname at uni minus a dot de)</b>
 
-Semester meetings:
-    <ul>
-        May:
-        <li>Mahmud, May 15</li>
-        June:
-        <li>June 5, Wei + Christian F.</li>
-        <li>June 12, Sujin, Jenny </li>
-        <li>June 26, Lukas K., Zahra Kolagar (later in semester), June</li>
-        July:
-        <li>July 3, Bachelor students Sprachverstehen mit Anwendung DH, Daniel, Ebubekir</li>
-        <li>July 10, Steffen Kleinle (colloquium), end of semester, July</li>
-    </ul>
 
-dates that do not work: June 19, LREC, May 1<br/><br/>
+    <b>May 15, 2024</b><br/>
+    Mahmud: Master thesis presentation
+    <br/><br/>
+
+    <b>June 5, 2024</b><br/>
+    Wei, Christian F.: PhD research updates
+    <br/><br/>
+
+    <b>June 12, 2024</b><br/>
+    Sujin, Jenny: Internship / PhD research updates
+    <br/><br/>
+
+    <b>June 26, 2024</b><br/>
+    Lukas K., Zahra Kolagar: PhD research updates
+    <br/><br/>
+
+    <b>July 3, 2024</b><br/>
+    Daniel, Ebubekir: Bachelor thesis presentations
+    <br/><br/>
+
+    <b>July 10, 2024</b><br/>
+    Master thesis colloquium Steffen Kleinle: Question Answering in a German Migration Context
+    <br/><br/>
+
+    <b>July 10, 2024</b><br/>
+    Evening: End-of-semester dinner
 
 
         </div>

@@ -80,7 +80,7 @@ permalink: /nlp-seminar
 
     <br/><br/>
 
-    <b>Contact: Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b>
+    <b>Contact (WS 2023/24): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b>
 
         </div>
     </div>
