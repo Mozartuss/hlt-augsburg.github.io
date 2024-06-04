@@ -15,11 +15,11 @@ permalink: /nlp-seminar-ss24
 
 
     <b>May 15, 2024</b><br/>
-    Mahmud: Master thesis presentation
+    Mahmud Uz Zaman: Two case studies using BERT in Digital Humanities
     <br/><br/>
 
     <b>June 5, 2024</b><br/>
-    Wei, Christian F.: PhD research updates
+    Wei Zhou, <a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a> and PhD research updates
     <br/><br/>
 
     <b>June 12, 2024</b><br/>
