@@ -19,11 +19,7 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>June 5, 2024</b><br/>
-<<<<<<< HEAD
     Wei: <a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering. Accepted to NAACL 2024.</a>
-=======
-    Wei Zhou, <a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a> and PhD research updates
->>>>>>> ffbcdef703ae75ca25516f13154a85450fd65a20
     <br/><br/>
 
     <b>June 12, 2024</b><br/>
@@ -36,7 +32,8 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>July 3, 2024</b><br/>
-    Daniel, Lukas C.: Bachelor thesis interim presentations, 
+    Daniel Neu: Bachelor thesis interim presentation<br/>
+    Lukas Christ: Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly-Supervised Learning. Accepted to Findings of ACL 2024.
     <br/><br/>
 
     <b>July 10, 2024</b><br/>
