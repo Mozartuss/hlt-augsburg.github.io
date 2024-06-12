@@ -19,11 +19,12 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>June 5, 2024</b><br/>
-    Wei, Christian F.: PhD research updates
+    Wei: <a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering. Accepted to NAACL 2024.</a>
     <br/><br/>
 
     <b>June 12, 2024</b><br/>
-    Sujin, Jenny: Internship / PhD research updates
+    Sujin Park: Internship intermin presentation: Extreme classification for the Gnomon Bibliographical Database.<br/>
+    Jenny Felser: PhD updates: Hypothesis-driven topic modelling.
     <br/><br/>
 
     <b>June 26, 2024</b><br/>
@@ -31,7 +32,7 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>July 3, 2024</b><br/>
-    Daniel, Ebubekir: Bachelor thesis presentations
+    Daniel, Lukas C.: Bachelor thesis interim presentations, 
     <br/><br/>
 
     <b>July 10, 2024</b><br/>
